@@ -1,9 +1,9 @@
 import './App.css'
-import ListaDeTarefas from './tarefas'
+import CriarSenha from '../components/criarSenha'
 
 function App() {
   return (
-    <ListaDeTarefas />
+    <CriarSenha />
   )
 }
 
